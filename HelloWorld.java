@@ -51,5 +51,6 @@ public class HelloWorld {
     System.out.println("Hello, World");
     System.out.println("Hello, World");
     System.out.println("Gooo Coronaaaaaaa");
+    System.out.println("Gooo Coronaaaaaaa");
     }
 }
